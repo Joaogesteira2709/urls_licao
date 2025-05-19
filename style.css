@@ -5,3 +5,15 @@ img{
     width: 350px;
     border-radius: 2rem;
 }
+h1{
+    color: blue;
+}
+p{
+    font-size: 21;
+}
+a{
+    font-style: italic;
+}
+ul{
+    list-style: circle;
+}
